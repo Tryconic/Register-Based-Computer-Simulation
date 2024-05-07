@@ -23,6 +23,8 @@ RAM: Holds instructions encoded as three-digit integers.
 	0ds: Go to the location in register d unless register s contains 0
 
 Input Files: Read from an input file containing up to 1000 three-digit unsigned integers representing the initial contents of consecutive RAM locations (unspecified locations initialized to 000). Input files are included in repo.
+
 Programming Language: C++.
+
 Output: Display the final register values and the total number of executed instructions. Included in the repo.
 
