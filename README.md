@@ -8,6 +8,7 @@ In this assignment, I was tasked with simulating the behavior of a computer with
 
 Registers: Ten registers, initially containing 000.
 RAM: Holds instructions encoded as three-digit integers.
+
 **Instruction Set:**
 
 	100: Halt
